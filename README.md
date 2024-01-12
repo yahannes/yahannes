@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=yahannes&color=blue)
 # Hello, I'm [Zhan]! 👋
 
 ## About Me
