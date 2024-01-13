@@ -9,7 +9,7 @@ I'm a Backend Developer specializing in PHP and Laravel. Passionate about solvin
 - And MOOOOOOOOOOORE :)
 
 ## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahannes&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=007ACC&icon_color=007ACC)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahannes&show_icons=true&theme=radical)
 
 ## Connect with Me
 - Telegram: [@ya_hannes](https://t.me/ya_hannes)
