@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yahannes&color=blue)
-# Hello, I'm [Zhan]! 👋
+# Hello, I'm Zhan! 👋
 
 ## About Me
 I'm a Backend Developer specializing in PHP and Laravel. Passionate about solving complex problems and building powerful web applications.
