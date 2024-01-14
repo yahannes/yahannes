@@ -5,7 +5,7 @@
 I'm a Backend Developer specializing in PHP and Laravel. Passionate about solving complex problems and building powerful web applications.
 
 ## Skills and Technologies
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ya_hannes&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ya_hannes&langs_count=8)]
 - And MOOOOOOOOOOORE :)
 
 ## GitHub Stats
