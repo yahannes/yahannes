@@ -6,7 +6,6 @@ I'm a Backend Developer specializing in PHP and Laravel. Passionate about solvin
 
 ## Skills and Technologies
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahannes&langs_count=8)](https://github.com/yahannes/github-readme-stats)
-- And MOOOOOOOOOOORE :)
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahannes&show_icons=true&bg_color=black&text_color=white&icon_color=blue)
